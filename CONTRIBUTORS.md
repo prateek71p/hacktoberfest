@@ -1849,6 +1849,11 @@ Noida
 - Bio: Beginner
 - GitHub: [pranjal44](https://github.com/pranjal44)
 
+#### Name: [Prateek Kharb] (https://github.com/prateek71p)
+- Place: Chandigarh, India
+- Bio: Beginner
+- GitHub: [prateek71p](https://github.com/prateek71p)
+
 #### Name: [Prateek Pandey](https://github.com/prateekpandey14)
 - Place: Bangalore, India
 - Bio: Opensource Enthusiast, Opensource Golang developer
